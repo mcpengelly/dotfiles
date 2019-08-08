@@ -4,9 +4,6 @@ export ZSH=/Users/mapengel/.oh-my-zsh
 # JIRA path
 export JIRA_URL=https://jira.com
 
-# github user token
-export GITHUB_TOKEN='7ebc84187cac7bcf641a4b3fd55f5110d3e1888b'
-
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 # ZSH_THEME="robbyrussell"
 ZSH_THEME="agnoster"
