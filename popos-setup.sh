@@ -1,3 +1,5 @@
+# this is mostly used as reference. These scripts quickly fall out of date.
+
 # shell augmentations (zsh)
 sudo apt install zsh kitty vim
 
