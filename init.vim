@@ -40,6 +40,12 @@ Plug 'ThePrimeagen/vim-be-good'
 Plug 'EdenEast/nightfox.nvim'
 Plug 'folke/tokyonight.nvim', { 'branch': 'main' }
 Plug 'preservim/nerdtree'
+Plug 'tpope/vim-fugitive'
+Plug 'tpope/vim-surround'
+Plug 'tpope/vim-commentary'
+Plug 'vim-airline/vim-airline'
+Plug 'junegunn/fzf.vim'
+Plug 'airblade/vim-gitgutter'
 "   - e.g. `call plug#begin('~/.vim/plugged')`
 "   - Avoid using standard Vim directory names like 'plugin'
 " Initialize plugin system
