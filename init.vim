@@ -38,9 +38,8 @@ call plug#begin()
 "   - neovim (linux/macos/windows): stdpath('data') . '/plugged'
 " you can specify a custom plugin directory by passing it as the argument
 Plug 'theprimeagen/vim-be-good'
+Plug 'nvim-treesitter/nvim-treesitter'
 Plug 'williamboman/mason.nvim'
-Plug 'edeneast/nightfox.nvim'
-Plug 'folke/tokyonight.nvim', { 'branch': 'main' }
 Plug 'preservim/nerdtree'
 Plug 'ctrlpvim/ctrlp.vim'
 Plug 'tpope/vim-fugitive'
@@ -54,6 +53,7 @@ Plug 'hrsh7th/cmp-nvim-lsp'
 Plug 'hrsh7th/cmp-buffer'
 Plug 'hrsh7th/cmp-path'
 Plug 'hrsh7th/cmp-cmdline'
+Plug 'tomasiser/vim-code-dark'
 Plug 'hrsh7th/nvim-cmp'
 
 " For vsnip users.
